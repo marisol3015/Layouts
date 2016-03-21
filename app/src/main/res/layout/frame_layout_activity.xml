@@ -4,6 +4,8 @@
     android:layout_height="match_parent">
     <!-- gravity="center" centra el componente-->
     <!-- android:layout_gravity="center" centra el texto-->
+
+
     <TextView
         android:layout_width="wrap_content"
 

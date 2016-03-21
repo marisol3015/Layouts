@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/TxtNombre"
         android:layout_centerHorizontal="true"
-        android:text="aceptar" />
+        android:text="Bienvenidos" />
 
     <Button
 
