@@ -29,4 +29,12 @@
         android:layout_centerHorizontal="true"
         android:text="aceptar" />
 
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Boton carlos"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
