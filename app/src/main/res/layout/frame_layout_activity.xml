@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"
-        android:text="Texto Dos"
+        android:text="Hola cambio"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <Button
